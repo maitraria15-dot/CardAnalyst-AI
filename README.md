@@ -1,2 +1,2 @@
-# Business-Requirement-Document-BRD-Analyzer
-AI powered BRD analyzer using LangGraph and RAG
+# CardAnalyst AI
+CardAnalyst AI is an intelligent research agent that automates credit card competitive analysis. It reads card documents from PDFs, live URLs, or web search, extracts reward structures, fees, and benefits for each card, and generates a structured comparison matrix with gap analysis — identifying exactly where revenue opportunities and customer mismatches exist. What used to take a BA team days of manual copy-pasting now takes minutes.
